@@ -1,0 +1,2 @@
+# ffmpeg_set_env
+windows将ffmpeg添加到PATH环境变量
