@@ -1,2 +1,4 @@
 # ffmpeg_set_env
 windows将ffmpeg添加到PATH环境变量
+只需要将项目clone下来,然后运行脚本就可以自动配置好ffmpeg工具并且设置PATH环境变量,ffmpeg用于合成分段视频的工具
+我想简化一切操作, 能用代码解决的重复劳动绝不会手动
